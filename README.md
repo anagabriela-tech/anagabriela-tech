@@ -54,7 +54,7 @@ Always eager to learn and collaborate, I aim to apply my skills in real-world pr
 </div>
 
 <div align="center">
-  <a href="https://discord.com/rosesblanchess" target="_blank">
+  <a href="https://discord.com/users/rosesblanchess" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60" alt="Discord" />
   </a>
   <a href="https://linkedin.com/in/anagabriela-tech" target="_blank">
